@@ -1,0 +1,66 @@
+id: f8e9cc74fd96447bb67297b47d9b0bab
+annotation_type: index
+revision: '00001'
+annotations:
+  1efcc04eb3f74a2ea499ce97822c1f66:
+    parts:
+    - 72ea923e2d0a4ea2919a1072dc7ce049:
+        title: ལེའུ་དང་པོ
+        span:
+        - base: 25C2
+          start: 80
+          end: 5112
+    - d98e04b88c304277869280f9d70d364d:
+        title: ལེའུ་གཉིས་པ
+        span:
+        - base: 25C2
+          start: 5112
+          end: 13288
+    - 9bbf1231ba614b93b630d041ad6a88a5:
+        title: ལེའུ་གསུམ་པ
+        span:
+        - base: 25C2
+          start: 13288
+          end: 17338
+    - ab376efd8ec14b90b81978886acef4f7:
+        title: ལེའུ་བཞི་པ
+        span:
+        - base: 25C2
+          start: 17338
+          end: 23415
+    - 36c51944950e4438aa39ce73783d1f96:
+        title: ལེའུ་ལྔ་པ
+        span:
+        - base: 25C2
+          start: 23415
+          end: 35968
+    - 6ec043de909f45868eff132c5f24644c:
+        title: ལེའུ་དྲུག་པ
+        span:
+        - base: 25C2
+          start: 35968
+          end: 51621
+    - e3ea6b10f4b544ac957427aa8ec98366:
+        title: ལེའུ་བདུན་པ
+        span:
+        - base: 25C2
+          start: 51621
+          end: 60754
+    - 28462bbbe0c04b9db09298e392324dc4:
+        title: ལེའུ་བརྒྱད་པ
+        span:
+        - base: 25C2
+          start: 60754
+          end: 82319
+    - 9adeb8c909b349129fe047ca57225848:
+        title: ལེའུ་དགུ་པ
+        span:
+        - base: 25C2
+          start: 82319
+          end: 101386
+    - c5b89719e2174aab82b9f9d2cc696137:
+        title: ལེའུ་བཅུ་པ
+        span:
+        - base: 25C2
+          start: 101386
+          end: 109796
